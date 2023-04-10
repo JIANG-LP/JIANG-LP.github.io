@@ -8,12 +8,12 @@ const sites = require('./cfg/sites');
 module.exports = {
   "lang": "zh-cn",
   outDir: '../docs',
-  base: '/JIANG-LP.github.io/',
+  base: '../',
   title: '个人简历',
   description: 'Try my best, then, let it be.',
   head: [['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.png' }]],
   themeConfig: {
-    repo: '/JIANG-LP.github.io',
+    repo: '/blog',
     logo: '/logo.png',
     docsDir: 'docs',
     docsBranch: 'main',
