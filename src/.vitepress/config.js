@@ -21,8 +21,5 @@ module.exports = {
       { text: '个人简历', link: '/about/' },
       sites
     ],
-    sidebar: {
-      '/about': 'auto',
-    }
   }
 }
