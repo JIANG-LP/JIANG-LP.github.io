@@ -3,7 +3,7 @@
 ## 基本信息
 
 - 性别: 女 年龄: 22 手机：18777420316
-- 邮箱：2622918191@qq.com 个人博客: https://jiang-lp.github.io/blog/
+- 邮箱：2622918191@qq.com 个人博客: https://jiang-lp.github.io
 
 ## 教育背景
 
