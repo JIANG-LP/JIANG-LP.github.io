@@ -9,6 +9,13 @@
 
 - 2018.09 ～ 2022.6 广西师范大学 计算机科学与技术 学士学位
 
+## 在线项目
+
+- 美肤医生小程序（微信搜索）
+- 美肤医生 App（华为应用市场、应用宝、iOS App Store）
+- https://trytry.meiyilab.com/cms/
+- https://www.luhangyuanxing.com/
+
 ## 工作经历
 
 ### 深圳市路航远行科技有限公司 | 前端工程师 | 2023 年 2 月 - 至今
