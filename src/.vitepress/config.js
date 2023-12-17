@@ -18,9 +18,8 @@ module.exports = {
     docsBranch: 'main',
     nav: [
       { text: '个人简历', link: '/about/' },
-      { text: '面试总结', link: '/interview/' },
-      { text: '算法', link: '/algorithm/' },
-      { text: '问题记录', link: '/debug/' },
+      { text: '前端笔记', link: '/basic/' },
+      { text: '读书笔记', link: '/note/' },
       sites
     ],
   }

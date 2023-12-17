@@ -7,7 +7,7 @@
     "start": "vitepress dev src",
     "pd": "npm run pp && npm run pb && npm run pc",
     "pp": "git reset --hard && git pull && npm install",
-    "pc": "git add . && git commit -m 'deploy' && git push",
+    "pc": "git add . && git commit -m 'updated' && git push",
     "pb": "vitepress build src"
   },
   "keywords": [],
