@@ -8,7 +8,7 @@ const sites = require('./cfg/sites');
 module.exports = {
   "lang": "zh-cn",
   outDir: '../docs',
-  title: '个人简历',
+  title: '慎独 | 慎微',
   description: 'Try my best, then, let it be.',
   head: [['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.png' }]],
   themeConfig: {
